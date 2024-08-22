@@ -1,5 +1,5 @@
 @echo off
-title WraithsDev Sunucu Nuker Bot
+title Sunucu Nuker Bot
 echo Please wait...
 node index.js
 pause
