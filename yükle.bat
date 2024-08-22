@@ -1,5 +1,5 @@
 @echo off
-title WraithsDev Sunucu Nuker Bot
+title Sunucu Nuker Bot
 
 if exist node_modules\ (
   echo Zaten indirdin modulleri tekrar kurmana gerek yok
